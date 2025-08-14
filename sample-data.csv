@@ -1,0 +1,11 @@
+Campagne,Phase du cycle de vie,Nom de l'entreprise,Last used Aircall tags
+Campagne A,RDV confirmé,Acme SA,pitch
+Campagne A,callback,Acme SA,pitch
+Campagne B,Prospect à traiter,Beta SARL,
+Campagne B,RDV confirmé,OmniCorp,pitch
+Campagne C,Suivre,Gamma SAS,
+Campagne C,RDV planifié,OmniCorp,pitch
+Campagne A,Prospect à traiter,Delta SA,
+Campagne D,Callback,Epsilon SARL,pitch
+Campagne D,Prospect à traiter,Acme SA,
+Campagne E,RDV confirmé,Zeta SPRL,pitch
